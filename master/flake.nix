@@ -9,7 +9,7 @@
   
   inputs.src-chrono-master.flake = false;
   inputs.src-chrono-master.owner = "treeform";
-  inputs.src-chrono-master.ref   = "refs/heads/master";
+  inputs.src-chrono-master.ref   = "master";
   inputs.src-chrono-master.repo  = "chrono";
   inputs.src-chrono-master.type  = "github";
   
