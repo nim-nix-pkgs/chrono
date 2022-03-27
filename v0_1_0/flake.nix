@@ -11,6 +11,7 @@
   inputs.src-chrono-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-chrono-v0_1_0.owner = "treeform";
   inputs.src-chrono-v0_1_0.repo  = "chrono";
+  inputs.src-chrono-v0_1_0.dir   = "";
   inputs.src-chrono-v0_1_0.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
