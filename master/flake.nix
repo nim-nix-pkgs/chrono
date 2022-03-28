@@ -11,7 +11,6 @@
   inputs.src-chrono-master.ref   = "refs/heads/master";
   inputs.src-chrono-master.owner = "treeform";
   inputs.src-chrono-master.repo  = "chrono";
-  inputs.src-chrono-master.dir   = "";
   inputs.src-chrono-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
